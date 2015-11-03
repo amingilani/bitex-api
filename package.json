@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/amingilani/bitex-api#readme",
   "dependencies": {
+    "lodash": "^3.10.1",
     "request": "^2.65.0"
   }
 }
