@@ -1,0 +1,26 @@
+{
+  "name": "bitex-api",
+  "version": "1.0.0",
+  "description": "A wrapper for the Bitex API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amingilani/bitex-api.git"
+  },
+  "keywords": [
+    "bitex",
+    "surbitcoin",
+    "foxbit",
+    "urdubit",
+    "vbtc"
+  ],
+  "author": "Amin Shah Gilani <aminshahgilani@gmail.com> (http://amin.gilani.me)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/amingilani/bitex-api/issues"
+  },
+  "homepage": "https://github.com/amingilani/bitex-api#readme"
+}
